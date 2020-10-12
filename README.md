@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m Hamza, a junior backend developer. Focusing primarily on the JVM ecosystem. Thanks for dropping by!
+I’m Hamza, a backend developer. Focusing primarily on the JVM ecosystem. Thanks for dropping by!
 
 - 🌱 I blog about all about JVM related stuff https://hamza-jvm.me/
 - 👯 I like to contribute in stackoverflow: https://bit.ly/3idstij
