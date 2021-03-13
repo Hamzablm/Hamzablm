@@ -6,5 +6,5 @@ I’m Hamza, a backend developer. Focusing primarily on the JVM ecosystem. Thank
 - 💬 Ask me about Java, Spring and JVM 
 - 📫 You can find me on twitter [@HamzaLovesJava](https://twitter.com/HamzaLovesJava). My DMs are always open, so feel free to say hello!
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I didn't go to college to study software development
+- ⚡ Fun fact: Didn't go to college to study software development
 
