@@ -5,5 +5,3 @@ I’m Hamza, a backend developer. Focusing primarily on the JVM ecosystem. Thank
 - 👯 I like to contribute in stackoverflow: https://bit.ly/3idstij
 - 💬 Ask me about Java, containers, and k8s
 - 📫 You can find me on twitter [@_HamzaBlm](https://twitter.com/_HamzaBlm). My DMs are always open, so feel free to say hello!
-- ⚡ Fun fact: Didn't go to college to study software development
-
